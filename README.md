@@ -1,5 +1,5 @@
-# BatchFindAndReplace.py
-A Python module to search text files and replace their contents.
+# python-batch-operations
+A Python module for completing batch opeartions on entire folders.
 
-## Usage
-`python BatchFindAndReplace.py [dir] [extension] [find] [replace]`
+## Installation
+`pip install py-batch-ops`
