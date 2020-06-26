@@ -1,5 +1,5 @@
 # batch-ops
-A Python module for completing batch operations on entire folders.
+A module for executing batch file operations in Python.
 
 ## Installation
 `pip install batch-ops`
